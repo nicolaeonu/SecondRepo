@@ -1,2 +1,2 @@
 # Java in practice
-Constructors, Inheritance, Composition, Encapsulation &amp; Polymorphism
+Constructors, Inheritance, Composition, Encapsulation, Polymorphism, Arrays, ArrayList, Autoboxing - Unboxing and LinkedList  
